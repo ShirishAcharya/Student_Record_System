@@ -1,9 +1,3 @@
-/*DONE BY 
-TUSHAKA SHRESTHA
-SHIRISH ACHARYA
-PRESHNA ACHARYA
-PRIYANKA YADAV
- */
 #include<iostream>
 #include<conio.h>
 #include<process.h>
